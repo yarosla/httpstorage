@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+out/
+static/
+*.iml
+.hg/
+.hgignore
